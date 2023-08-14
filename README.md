@@ -1,4 +1,4 @@
-# Software 1 - Class Exercise 4
+# Software 1 - Class Exercise 3
 ## Goals
 - Learn how to handle exceptions
 - Implement some OOP principles in your program.
